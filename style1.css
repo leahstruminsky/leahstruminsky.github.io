@@ -1,5 +1,5 @@
 h1 {
-    color: rgb(0, 0, 0); }  
+    color: rgb(0, 51, 0); }  
        
 #main_body 
 {	margin: auto;
@@ -15,41 +15,68 @@ h1 {
 	width: 800px; 
 					}
  #artwork {
-
- 	width: 190px;
- 	float: center;
- 	padding: 5px;
- 	border: 3px solid black 
+ 	width: 170px;
+ 	border: 3px solid black;
+ 	float: right;
+ 	margin:15px;
+ 	margin-bottom: 35px;
+ 	clear: right
+ 	
  }
 
  #leah_uri { 
- 	padding: 5px;
- 	float:center;
- 	width: 190px;
- 	border: 3px solid black }
+ 	width: 170px;
+ 	border: 3px solid black;
+ 	float: left;
+ 	margin: 15px;
+ 
+ 	 }
+ 
  #fitch { 
- 	padding: 5px;
- 	float:center;
- 	width: 190px;
- 	border: 3px solid black  }
+ 	width: 170px;
+ 	border: 3px solid black;
+ 	float: left;
+ 	margin: 15px;
+ 	margin-bottom: 35px;
+ 	  
+ }
+
  #leah_marsh {
- 	padding: 5px;
- 	float:right;
- 	width: 150px;
+ 	width: 170px;
  	border: 3px solid black ;
+ 	float: right;
+ 	margin: 15px;
  }
 
- #about_paragraph{
+ #about_paragraph {
  	margin-left: 25px;
-
+ 	display: block;
 
  }
 
- #page_headers{
+ #page_headers {
  	margin: auto;
- 	padding: 10px;
-
+ 	padding-top: 20px;
+ 	padding-left: 25px;
+ 	padding-bottom: 15px
  }
+
+ #computergif {
+ 	width: 300px;
+ 	float: right;
+ 	padding:10px;
+ }
+
+#intro {
+	margin:auto;
+	display:block;
+	width: 50%;
+	padding-left:25px;
+}
+
+#java_paragraph {
+	padding-left: 25px;
+}
 
  body {
       
