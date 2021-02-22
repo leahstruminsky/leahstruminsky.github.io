@@ -6,6 +6,17 @@ h1 {
 	width: 800px;
 	display: block }
 
+#embedded_dance{
+margin: auto;
+width:400px;
+
+}
+#embedded_race{
+margin: auto;
+width:400px;
+
+
+}
 #banner { padding-top: 10px;
 		padding-bottom: 10px;
 		 }
@@ -85,6 +96,6 @@ h1 {
       background-color: rgb(33, 61, 49);
       background-image: url("mybackground.png");
       background-position: center;
-      background-size: 1650px 2000px;
+      background-size: 1650px 4000px;
 
       }
