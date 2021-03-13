@@ -1,5 +1,4 @@
 
-
 h1 {
     color: rgb(0, 51, 0); }  
        
@@ -28,6 +27,10 @@ width:400px;
 }
 
 #embedded_follow{
+margin: auto;
+width:400px;	
+}
+#embedded_tag{
 margin: auto;
 width:400px;	
 }
@@ -110,6 +113,6 @@ width:400px;
       background-color: rgb(33, 61, 49);
       background-image: url("mybackground.png");
       background-position: center;
-      background-size: 1650px 6000px;
+      background-size: 1650px 7000px;
 
       }
