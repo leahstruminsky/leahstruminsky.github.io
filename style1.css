@@ -34,6 +34,12 @@ width:400px;
 margin: auto;
 width:400px;	
 }
+
+#embedded_contacts{
+margin: auto;
+width:400px;	
+}
+
 #banner { padding-top: 10px;
 		padding-bottom: 10px;
 		 }
@@ -113,6 +119,6 @@ width:400px;
       background-color: rgb(33, 61, 49);
       background-image: url("mybackground.png");
       background-position: center;
-      background-size: 1650px 7000px;
+      background-size: 1650px 7500px;
 
       }
