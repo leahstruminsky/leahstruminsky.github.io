@@ -7,6 +7,51 @@ h1 {
 	width: 800px;
 	display: block }
 
+
+#bitmojiDance{
+margin: auto;
+width:300px;
+}
+
+#bitmojiRace{
+margin: auto;
+width:300px;
+}
+
+#bitmojiDecision{
+margin: auto;
+width:300px;
+}
+
+#bitmojiZoo{
+margin: auto;
+width:300px;
+}
+
+#bitmojiFollow{
+margin: auto;
+width:300px;	
+}
+#bitmojiTag{
+margin: auto;
+width:300px;	
+}
+
+#bitmojiContacts{
+margin: auto;
+width:300px;	
+}
+
+#bitmojiMash{
+margin: auto;
+width:300px;	
+}
+
+#bitmojiTTT{
+margin: auto;
+width:300px;	
+}
+
 #embedded_dance{
 margin: auto;
 width:400px;
@@ -36,6 +81,16 @@ width:400px;
 }
 
 #embedded_contacts{
+margin: auto;
+width:400px;	
+}
+
+#embedded_mash{
+margin: auto;
+width:400px;	
+}
+
+#embedded_TTT{
 margin: auto;
 width:400px;	
 }
