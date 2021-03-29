@@ -5,94 +5,27 @@ h1 {
 #main_body 
 {	margin: auto;
 	width: 800px;
-	display: block }
-
-
-#bitmojiDance{
-margin: auto;
-width:300px;
+	display: block 
 }
 
-#bitmojiRace{
-margin: auto;
-width:300px;
+#bitmoji{
+        height:350px;
+        width: 350px;
+        float:left;
+        clear:left;
+        margin-bottom:100px;
+}
+#bitmoji2{
+        height:350px;
+        width: 350px;
+        float:right;
+        clear:right;
+        margin-bottom:100px;
 }
 
-#bitmojiDecision{
-margin: auto;
-width:300px;
-}
-
-#bitmojiZoo{
-margin: auto;
-width:300px;
-}
-
-#bitmojiFollow{
-margin: auto;
-width:300px;	
-}
-#bitmojiTag{
-margin: auto;
-width:300px;	
-}
-
-#bitmojiContacts{
-margin: auto;
-width:300px;	
-}
-
-#bitmojiMash{
-margin: auto;
-width:300px;	
-}
-
-#bitmojiTTT{
-margin: auto;
-width:300px;	
-}
-
-#embedded_dance{
-margin: auto;
-width:400px;
-}
-#embedded_race{
-margin: auto;
-width:400px;
-}
-
-#embedded_tree{
-margin: auto;
-width:400px;
-}
-
-#embedded_zoo{
-margin: auto;
-width:400px;
-}
-
-#embedded_follow{
-margin: auto;
-width:400px;	
-}
-#embedded_tag{
-margin: auto;
-width:400px;	
-}
-
-#embedded_contacts{
-margin: auto;
-width:400px;	
-}
-
-#embedded_mash{
-margin: auto;
-width:400px;	
-}
-
-#embedded_TTT{
-margin: auto;
-width:400px;	
+#javascripts{
+	width:800px;
+	margin:auto;
 }
 
 #banner { padding-top: 10px;
